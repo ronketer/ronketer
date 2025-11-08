@@ -34,5 +34,3 @@ I’m a developer interested in systems programming, concurrency, distributed sy
 ## Get in touch
 
 - GitHub: https://github.com/ronketer
-
-If any of the one-liners above could be more accurate, I’m happy to revise! I also welcome suggestions, discussions, and issues on my repos.
