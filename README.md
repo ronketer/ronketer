@@ -46,3 +46,4 @@ I’m a developer interested in systems programming, concurrency, distributed sy
 ## Get in touch
 
 - GitHub: https://github.com/ronketer
+- LinkedIn: https://linkedin.com/in/ronket
