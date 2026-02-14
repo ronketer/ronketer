@@ -1,6 +1,6 @@
 # Hi, I'm ronketer 👋
 
-I’m a developer interested in systems programming, concurrency, distributed systems, and applied algorithms. I like building small, focused projects to learn fundamentals—especially around threading, MapReduce-style data processing, REST APIs, and SLAM.
+I’m a developer, pursuing BS. in computer science at the Hebrew University.  interested in systems programming, concurrency, distributed systems, and applied algorithms. I like building small, focused projects to learn fundamentals—especially around threading, MapReduce-style data processing, REST APIs, and SLAM.
 
 - Languages: C, C++, Python, JavaScript
 - Tooling: Linux, Make, Git
