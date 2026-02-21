@@ -1,49 +1,24 @@
-# Hi, I'm ronketer 👋
+# Hi there, I'm Ron Keter 👋
 
-I’m a developer, pursuing BS. in computer science at the Hebrew University.  interested in systems programming, concurrency, distributed systems, and applied algorithms. I like building small, focused projects to learn fundamentals—especially around threading, MapReduce-style data processing, REST APIs, and SLAM.
+I am a final-year B.Sc. Computer Science student at The Hebrew University of Jerusalem, specializing in Machine Learning, Artificial Intelligence, and scalable backend systems. I am passionate about building secure, optimized applications and exploring the intersections of generative AI, computer vision, and systems architecture.
 
-- Languages: C, C++, Python, JavaScript
-- Tooling: Linux, Make, Git
-- Currently: Exploring SLAM concepts in Python and sharpening systems skills with C/C++
+### 🚀 What I Do
+* **Machine Learning & AI:** Fine-tuning diffusion models, exploring generative AI security (membership inference), and building visual SLAM pipelines.
+* **Systems & Backend:** Architecting secure RESTful APIs with automated CI/CD pipelines, and developing high-performance, multithreaded C++ frameworks.
+* **Recent Academic Focus:** I recently completed advanced coursework in Natural Language Processing, SLAM - Video Navigation, and Advanced Machine Learning.
 
-## Featured projects
+### 🛠️ Technologies & Tools
+* **Languages:** Python, C++, C, JavaScript (Node.js), SQL, Bash, Java 
+* **AI & Data:** PyTorch, NumPy, Pandas, OpenCV, Jupyter 
+* **Backend & Systems:** Express, Multithreading, Memory Management, Linux/Unix 
+* **Cloud & DevOps:** AWS Certified Cloud Practitioner, Docker, GitHub Actions, CI/CD, Git 
 
-###  [Deep Learning Diagnostic Dashboard](https://github.com/ronketer/mnist-variational-inference)
-**Stack:** Python, PyTorch, JavaScript, Chart.js
-* **What it is:** A research pipeline for Variational Auto-Encoders (VAE) and CNNs.
-* **Key Feature:** Engineered a custom **JavaScript visualization dashboard** to automate the reporting of diagnostic metrics (MSE reconstruction vs. KL divergence) during training.
-* **Result:** Achieved >97% accuracy on classification benchmarks and reduced metric analysis time.
+### 📌 Featured Projects
+* **[Generative AI Security & Forensics](https://github.com/ronketer/generative-ai-security-forensics)**: Fine-tuned Stable Diffusion 1.5 using LoRA and engineered a membership inference algorithm to detect training data leakage.
+* **[Secure REST API & CI/CD Pipeline](https://github.com/ronketer/secure-rest-api-cicd)**: Architected a secure Node.js/Express API featuring JWT authentication, robust input validation, and an automated GitHub Actions deployment pipeline.
+* **[Visual SLAM System](https://github.com/ronketer/visual-slam-system)**: Co-engineered a stereo visual SLAM pipeline in Python processing 2,600+ frames of the KITTI dataset using AKAZE tracking and RANSAC.
+* **[Multithreaded MapReduce](https://github.com/ronketer/multithreaded-mapreduce)**: Implemented a high-performance C++ framework orchestrating Map and Reduce stages across N worker threads using mutexes and atomic counters.
 
-###  [Vision Aided Navigation (SLAM)](https://github.com/ronketer/SLAM-VN)
-**Stack:** Python, OpenCV, GTSAM
-* **What it is:** A stereo visual SLAM pipeline built from scratch on the KITTI dataset.
-* **Key Feature:** Implemented AKAZE tracking, stereo triangulation, and outlier rejection (RANSAC).
-* **Result:** Reduced relative translation error by 3x using windowed bundle adjustment and pose-graph optimization.
-
-###  [Multithreaded MapReduce Framework](https://github.com/ronketer/map-reduce)
-**Stack:** C++, pthreads, Linux
-* **What it is:** A high-performance concurrency framework managing N worker threads.
-* **Key Feature:** Thread-safe barrier synchronization and atomic counters.
-* **Result:** Deterministic output with optimized per-thread intermediate sorting.
-
-###  [User-Level Threads (UThreads)](https://github.com/ronketer/user-level-threads)
-**Stack:** C++, Assembly
-* **What it is:** A user-space threading library (green threads).
-* **Key Feature:** Implemented round-robin scheduling, context switching, and signal handling to manage cooperative concurrency.
-
-###  [Secure RESTful API](https://github.com/ronketer/todo-list-api)
-**Stack:** Node.js, Express, MongoDB
-* **What it is:** A secure backend service for task management.
-* **Key Feature:** Implemented JWT authentication, Helmet/XSS protection, and centralized error handling for production safety.
-
-## What I’m into
-
-- Systems programming: threads, schedulers, synchronization, memory
-- Distributed/data processing patterns (MapReduce-style)
-- Backend fundamentals and API design
-- Visual computing/SLAM experimentation
-
-## Get in touch
-
-- GitHub: https://github.com/ronketer
-- LinkedIn: https://linkedin.com/in/ronket
+### 📫 Let's Connect
+* **Email:** [ron.j.keter@gmail.com](mailto:ron.j.keter@gmail.com) 
+* **LinkedIn:** [linkedin.com/in/ronket](https://www.linkedin.com/in/ronket/)
