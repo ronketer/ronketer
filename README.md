@@ -34,15 +34,6 @@ Open to **internship and part-time roles** in SWE · Full-Stack · Backend · Sy
 
 ---
 
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronketer&show_icons=true&hide_border=true&count_private=true&theme=default" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronketer&layout=compact&hide_border=true&theme=default" height="150" alt="Top languages" />
-</p>
-
----
-
 ## Contact
 
 [ron.j.keter@gmail.com](mailto:ron.j.keter@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ronket/)
