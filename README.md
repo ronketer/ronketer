@@ -36,4 +36,4 @@ Open to **internship and part-time roles** in SWE · Full-Stack · Backend · Sy
 
 ## Contact
 
-[ron.j.keter@gmail.com](mailto:ron.j.keter@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ronketer/)
+[ron.j.keter@gmail.com](mailto:ron.j.keter@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ronketer)
