@@ -34,7 +34,7 @@ Open to **internship and part-time roles** in SWE · Backend · Systems · ML/CV
 
 Production-grade task management app with JWT auth, server-side pagination, multi-stage Docker builds, Kubernetes deployment manifests, and a CI pipeline that blocks merges below 80% backend test coverage.
 
-![taskboard demo](https://raw.githubusercontent.com/ronketer/taskboard-app/main/todo_app_demo%20-%20frame%20at%200m16s.jpg)
+![taskboard demo](https://github.com/ronketer/taskboard-app/blob/main/todo_app_demo.gif)
 
 ---
 
